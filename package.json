@@ -1,4 +1,5 @@
 {
+  "homepage": "http://ahappycamer.github.io/mad-libs",
   "name": "rad-libs",
   "version": "0.1.0",
   "private": true,
@@ -47,8 +48,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0",
-    "homepage": "http://ahappycamer.github.io/mad-libs"
+    "gh-pages": "^3.1.0"
   }
   
 }
