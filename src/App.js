@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import jsPDF from "jspdf";
 import html2canvas from "html2canvas";
-import './App.css';
+import './styles/App.css';
 import { FaSave } from "react-icons/fa";
 
 /// TODO: add validation for empty text boxes???
