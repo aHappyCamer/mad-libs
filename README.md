@@ -10,7 +10,8 @@ Currently does not have any input validation.
 
 ## Getting Started with Mad Libs
 
-```git clone https://github.com/aHappyCamer/mad-libs.git
+```
+git clone https://github.com/aHappyCamer/mad-libs.git
 cd mad-libs
 npm install
 npm run start
