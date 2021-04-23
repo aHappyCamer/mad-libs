@@ -6,6 +6,8 @@ An intro project to become acquainted with ReactJS. Turned a A Letter From Georg
 
 Currently does not have any input validation.
 
+[Live Demo](https://ahappycamer.github.io/mad-libs/)
+
 ## Getting Started with Mad Libs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
