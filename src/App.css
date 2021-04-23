@@ -1,0 +1,36 @@
+#stuff {
+  padding-top: 20px;
+  padding-left: 50px;
+  width: 475px;
+  height: 535px;
+  word-wrap: break-word;
+  font-size: 15px;
+  line-height: 225%;
+  text-align: justify;
+}
+
+h1 {
+  text-align: center;
+}
+
+#logo, img {
+  width: 80%;
+  margin-left: 10%;
+}
+
+input {
+  border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid black;
+  width: 115px;
+}
+
+#copyright {
+  font-size: 10px;
+}
+
+#pdfBtn {
+  margin-left:115%;
+  margin-top: -150%;
+}
